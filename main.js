@@ -205,6 +205,7 @@ var Terrain = Class({
                 .set('rockfactor', controls.rock * controls.dir)
                 .set('soilfactor', controls.soil * controls.dir)
                 .set('editsize', editsize)
+                .set('ground', this.heights.result)
             this.tmp.run(this.programs.god);
             this.heights.run(this.programs.copy.set('source', this.tmp.result));
         }
