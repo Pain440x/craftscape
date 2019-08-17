@@ -1,1 +1,11 @@
 Craftscape is a WebGL landscaping and erosion demo.
+
+For Florian Boesch's original live version:
+  http://codeflow.org/webgl/craftscape/
+
+For Florian Boesch's website with full article about this demo please vist:
+  http://codeflow.org/entries/2011/nov/10/webgl-gpu-landscaping-and-erosion/#demo
+
+
+For my simple terrain modification fix please vist:
+  https://pain440x.github.io/craftscape/
